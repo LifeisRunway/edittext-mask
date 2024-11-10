@@ -1,5 +1,4 @@
 **Announcement**: [let's travel the world](https://github.com/egslava/edittext-mask/issues/65)! or let's just be guests :)
-[![](https://jitpack.io/v/LifeisRunway/edittext-mask.svg)](https://jitpack.io/#LifeisRunway/edittext-mask)
 
 
 # MaskedEditText
